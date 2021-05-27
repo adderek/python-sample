@@ -9,3 +9,14 @@ I have renamed default branch name back to master from main.
 Github and many more companies are trying to follow the great confusion over the internet about USA slavery thing. But I do not live in USA.
 I live in Poland where slavery is usually about "white" people being slaves to other "white" people. We had nothing like USA. We are not using feet, inches nor ounces.
 I believe that all live matters, not only "black". I must also say that I have never sen a black person, nor a white person. As a physicist I can tell I have seen many people with different amount of pigment in their skin but none of them had color white or black.
+
+# Directory structure
+I have decided to use following directories here:
+- /src to store application sources
+
+# TODO's:
+- Tests - if you write no unit tests then you cannot call yourself a developer
+- Static analysis tools
+- Build scripts - I'll try to prepare some king of continuous integration
+- Microservices example
+- Communication with correlation id
