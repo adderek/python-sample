@@ -1,0 +1,4 @@
+./before/01-basics.py:37:1 'random.sample' imported but unused
+./before/01-basics.py:95:60 undefined name 'random'
+./before/04-classes.py:31:9 local variable 'local_variable' is assigned to but never used
+./before/05-zen_of_python.py:19:5 'this' imported but unused

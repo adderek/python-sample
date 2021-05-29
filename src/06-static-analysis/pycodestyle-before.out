@@ -1,0 +1,64 @@
+./before/01-basics.py:27:1: E266 too many leading '#' for block comment
+./before/01-basics.py:32:80: E501 line too long (84 > 79 characters)
+./before/01-basics.py:42:1: E266 too many leading '#' for block comment
+./before/01-basics.py:45:80: E501 line too long (80 > 79 characters)
+./before/01-basics.py:49:80: E501 line too long (100 > 79 characters)
+./before/01-basics.py:53:1: E266 too many leading '#' for block comment
+./before/01-basics.py:57:80: E501 line too long (80 > 79 characters)
+./before/01-basics.py:58:80: E501 line too long (107 > 79 characters)
+./before/01-basics.py:62:1: E266 too many leading '#' for block comment
+./before/01-basics.py:77:80: E501 line too long (88 > 79 characters)
+./before/01-basics.py:78:1: E305 expected 2 blank lines after class or function definition, found 1
+./before/01-basics.py:82:1: E266 too many leading '#' for block comment
+./before/01-basics.py:85:80: E501 line too long (119 > 79 characters)
+./before/01-basics.py:86:80: E501 line too long (103 > 79 characters)
+./before/01-basics.py:88:80: E501 line too long (139 > 79 characters)
+./before/01-basics.py:91:80: E501 line too long (96 > 79 characters)
+./before/01-basics.py:92:80: E501 line too long (81 > 79 characters)
+./before/01-basics.py:95:80: E501 line too long (101 > 79 characters)
+./before/01-basics.py:95:90: E231 missing whitespace after ','
+./before/01-basics.py:97:80: E501 line too long (100 > 79 characters)
+./before/01-basics.py:102:80: E501 line too long (134 > 79 characters)
+./before/01-basics.py:103:80: E501 line too long (92 > 79 characters)
+./before/01-basics.py:107:1: E266 too many leading '#' for block comment
+./before/01-basics.py:123:80: E501 line too long (93 > 79 characters)
+./before/01-basics.py:127:80: E501 line too long (80 > 79 characters)
+./before/01-basics.py:128:16: E231 missing whitespace after ':'
+./before/01-basics.py:143:80: E501 line too long (99 > 79 characters)
+./before/01-basics.py:144:80: E501 line too long (123 > 79 characters)
+./before/02-wrappers.py:4:80: E501 line too long (174 > 79 characters)
+./before/02-wrappers.py:7:1: E402 module level import not at top of file
+./before/02-wrappers.py:7:80: E501 line too long (87 > 79 characters)
+./before/02-wrappers.py:23:80: E501 line too long (146 > 79 characters)
+./before/02-wrappers.py:29:1: E302 expected 2 blank lines, found 1
+./before/02-wrappers.py:37:1: W391 blank line at end of file
+./before/03-logging.py:7:80: E501 line too long (88 > 79 characters)
+./before/03-logging.py:12:1: E302 expected 2 blank lines, found 1
+./before/03-logging.py:19:17: E131 continuation line unaligned for hanging indent
+./before/03-logging.py:19:80: E501 line too long (115 > 79 characters)
+./before/03-logging.py:22:17: E116 unexpected indentation (comment)
+./before/03-logging.py:23:80: E501 line too long (118 > 79 characters)
+./before/03-logging.py:29:1: E302 expected 2 blank lines, found 1
+./before/03-logging.py:40:66: W291 trailing whitespace
+./before/03-logging.py:42:80: E501 line too long (114 > 79 characters)
+./before/04-classes.py:9:80: E501 line too long (89 > 79 characters)
+./before/04-classes.py:13:80: E501 line too long (87 > 79 characters)
+./before/04-classes.py:14:80: E501 line too long (98 > 79 characters)
+./before/04-classes.py:18:1: E302 expected 2 blank lines, found 1
+./before/04-classes.py:29:80: E501 line too long (87 > 79 characters)
+./before/04-classes.py:31:80: E501 line too long (99 > 79 characters)
+./before/04-classes.py:34:80: E501 line too long (105 > 79 characters)
+./before/04-classes.py:35:80: E501 line too long (83 > 79 characters)
+./before/04-classes.py:37:80: E501 line too long (84 > 79 characters)
+./before/04-classes.py:38:80: E501 line too long (89 > 79 characters)
+./before/04-classes.py:39:80: E501 line too long (93 > 79 characters)
+./before/04-classes.py:40:80: E501 line too long (85 > 79 characters)
+./before/04-classes.py:45:80: E501 line too long (82 > 79 characters)
+./before/04-classes.py:47:1: E302 expected 2 blank lines, found 1
+./before/04-classes.py:51:1: E302 expected 2 blank lines, found 1
+./before/05-zen_of_python.py:5:1: E266 too many leading '#' for block comment
+./before/05-zen_of_python.py:12:52: W291 trailing whitespace
+./before/05-zen_of_python.py:13:54: W291 trailing whitespace
+./before/05-zen_of_python.py:14:57: W291 trailing whitespace
+./before/05-zen_of_python.py:18:1: E302 expected 2 blank lines, found 0
+./before/05-zen_of_python.py:21:1: E305 expected 2 blank lines after class or function definition, found 1
