@@ -13,7 +13,7 @@ Execute `git clone git@github.com:adderek/python-sample.git`
 Look at the `src/` directory and look at the examples
 
 <details><summary>
-# Word about default branch</summary>
+<h1>Word about default branch</h1></summary>
 I have renamed default branch name back to master from main.
 
 Github and many more companies are trying to follow the great confusion over the internet about USA slavery thing.
